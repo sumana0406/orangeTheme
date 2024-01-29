@@ -1,0 +1,10 @@
+composable fcns - no return types . they just do some operations and display the res
+theyhave modifiers fs
+
+activities ( r stuff like screen etc) > components(part of the activity)
+
+
+preview fcns sho the preview of comp fcns w/o having to run the entire code.
+
+
+unit type
